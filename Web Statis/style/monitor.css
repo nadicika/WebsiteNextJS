@@ -205,7 +205,7 @@ html {
   }
   
   #things {
-    height: 120vh;
+    height: 100vh;
     background-color: #f4f7ff;
     text-align: center;
     display: flex;
@@ -261,9 +261,9 @@ html {
   .card {
     align-items: center;
     background-color: #fff;
-    text-align: left;
+    text-align: center;
     padding: 10px;
-    padding-left: 30px;
+    padding-left: 40px;
     margin-right: 30px;
     box-shadow: 3px 3px 40px #17d1ac;
     border-radius: 90px;
