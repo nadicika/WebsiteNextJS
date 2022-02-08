@@ -204,7 +204,7 @@ nav img {
 }
 
 #things {
-  height: 180vh;
+  height: 200vh;
   background-color: #f4f7ff;
   text-align: center;
   display: flex;
@@ -232,8 +232,14 @@ nav img {
 .card-body p {
   letter-spacing: 1px;
 }
+#things .card-media img{
+  width: 80px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  object-position: 0px;
+}
 
-.card {
+.card-media {
   align-items: center;
   background-color: #fff;
   text-align: center;
@@ -245,7 +251,6 @@ nav img {
   margin-bottom: 50px;
   display: flex;
 }
-
 .card img {
   width: 80px;
   margin-top: 40px;
